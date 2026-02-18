@@ -9,6 +9,7 @@
 </div>
  <div align="left">
 <p style="font-weight: bold;">
+  
 - 💻 **Data Engineer at HCl, Ex-Fidelity, Ex-Flipkart.** <br>
                              
 - 🌟 **I am passionate about solving real-world problems through data-driven analysis. I enjoy working with numbers and uncovering insights, and I am consistently motivated to explore innovative approaches and continuous improvement opportunities.**<br>
