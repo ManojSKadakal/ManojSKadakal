@@ -12,7 +12,7 @@
                              
 - 🌟 **I am passionate about solving real-world problems through data-driven analysis. I enjoy working with numbers and uncovering insights, and I am consistently motivated to explore innovative approaches and continuous improvement opportunities.**<br>
                              
- - 🌱 **Interested in Data engineer**<br>
+ - 🌱 **Interested in Big Data**<br>
                              
 - **Explore :boom:->learn :right_anger_bubble:->grow :v:**
             
