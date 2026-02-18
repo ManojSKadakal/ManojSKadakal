@@ -7,7 +7,7 @@
      src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 </div>
- 
+ <div align="center">
 - 💻 **Data Engineer at HCl, Ex-Fidelity, Ex-Flipkart.** <br>
                              
 - 🌟 **I am passionate about solving real-world problems through data-driven analysis. I enjoy working with numbers and uncovering insights, and I am consistently motivated to explore innovative approaches and continuous improvement opportunities.**<br>
@@ -17,7 +17,7 @@
 - **Explore :boom:->learn :right_anger_bubble:->grow :v:**
             
 </br>
-
+</div>
 <br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
