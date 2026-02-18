@@ -7,7 +7,8 @@
      src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 </div>
- <div align="left";style="font-weight: bold>
+ <div align="left">
+<p style="font-weight: bold;">
 - 💻 **Data Engineer at HCl, Ex-Fidelity, Ex-Flipkart.** <br>
                              
 - 🌟 **I am passionate about solving real-world problems through data-driven analysis. I enjoy working with numbers and uncovering insights, and I am consistently motivated to explore innovative approaches and continuous improvement opportunities.**<br>
@@ -15,7 +16,7 @@
  - 🌱 **Interested in Big Data**<br>
                              
 - **Explore :boom:->learn :right_anger_bubble:->grow :v:**
-            
+</p>            
 </br>
 <br>
 </div>
