@@ -17,8 +17,8 @@
 - **Explore :boom:->learn :right_anger_bubble:->grow :v:**
             
 </br>
-</div>
 <br>
+</div>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
